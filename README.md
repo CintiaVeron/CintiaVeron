@@ -3,10 +3,12 @@
 
 
 - 💬 Ask me about
+  
 **soy una persona  dedicada y orientada a resultados, con una sólida experiencia en análisis de fuerza laboral y una pasión por transformar datos en información valiosa. Mi trayectoria abarca  roles como Analista y Representante de Ventas, donde perfeccioné mis habilidades en gestión de datos, colaboración en equipo y atención al cliente. Actualmente, me enfoco en aplicar mis habilidades para abordar proyectos desafiantes, destacando mi atención al detalle y proactividad. Tengo un historial comprobado en el desarrollo de soluciones analíticas que apoyan la toma de decisiones estratégicas y mejoran la eficiencia operativa.**
 
 
 - 📄 Know about my experiences
+  
 **Con una sólida experiencia en análisis de datos y atención al cliente, he desarrollado una capacidad destacada para transformar datos en insights valiosos y mejorar la eficiencia operativa. Mi carrera incluye un papel clave como Analista de Workforce en GTR, donde me enfoqué en la optimización de la planificación de recursos y el análisis de rendimiento. En mi rol como Analista de Workforce, me especialicé en: Gestión y Optimización de Recursos: Planificación eficiente de la fuerza laboral para asegurar una cobertura adecuada y minimizar tiempos de inactividad. Coordiné horarios y ajusté la asignación de personal según las fluctuaciones en la demanda. Análisis de Datos y Reportes: Realicé análisis detallados de datos de rendimiento y productividad, creando informes que proporcionaban insights clave para la toma de decisiones. Implementé técnicas de análisis predictivo para mejorar la precisión en la planificación de la fuerza laboral. Atención al Cliente y Colaboración: Desarrollé habilidades para entender y anticipar las necesidades del cliente, gestionando consultas y resolviendo problemas de manera eficaz. Trabajé de cerca con equipos multifuncionales para optimizar procesos y mejorar la experiencia del cliente.**
 - 
 - ⚡ Fun fact **Me encanta viajar, lo que alimenta mi curiosidad e inspira mi creatividad en el trabajo. También soy apasionado por aprender cosas nuevas y siempre busco oportunidades para expandir mis conocimientos. Además, tengo un gran interés en el área de la estética, lo que complementa mi apreciación por el detalle y el diseño.**

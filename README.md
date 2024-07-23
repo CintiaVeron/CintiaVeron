@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="URL_DE_TU_FOTO" alt="Cintia Veron" width="150" height="150" style="border-radius: 50%;"/>
-  <br>
-  Hola 👋, soy Cintia Veron
+    Hola 👋, soy Cintia Veron
 </h1>
 <h3 align="center">Apasionada por el análisis de datos</h3>
 
